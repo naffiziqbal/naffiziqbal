@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/naffiziqbal" target="blank"><img src="https://img.shields.io/twitter/follow/naffiziqbal?logo=twitter&style=for-the-badge" alt="naffiziqbal" /></a> </p>
 
-- 🌱 I’m currently learning **Redux on Programming Hero**
+- 🌱 I’m currently learning Front End Web Application Development
 
 - 👨‍💻 All of my projects are available at [https://nafiziqbal.com](https://nafiziqbal.com)
 
