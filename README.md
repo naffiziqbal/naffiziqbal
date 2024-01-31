@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nafiziqbal.com](https://nafiziqbal.com)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Next.js**
 
 - 📫 How to reach me **nafiziqbal0007000@gmail.com**
 
