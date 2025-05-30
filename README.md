@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafiz Iqbal</h1>
-<h3 align="center">A passionate MERN Stack (Front End Focused) developer from Dhaka Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack (Front End Focused) developer from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naffiziqbal&label=Profile%20views&color=0e75b6&style=flat" alt="naffiziqbal" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning Front End Web Application Development
 
-- 👨‍💻 All of my projects are available at [https://nafiziqbal.com](https://nafiziqbal.com)
+- 👨‍💻 All of my projects are available at [https://nafiziqbal.com](https://nafiziqbal.info)
 
-- 💬 Ask me about **JavaScript, React, Next.js**
+- 💬 Ask me about **Typescript, React, Next.js , Nest js**
 
-- 📫 How to reach me **nafiziqbal0007000@gmail.com**
+- 📫 How to reach me **f.nafiziqbal@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1auUOLpItuI3Ii7GHcC_Q_7FIoZYOI-NxPaaabOylSnc/edit?usp=sharing)
 
-- ⚡ Fun fact **Why are programming languages so hard to understand? Because It was developed by Women**
+- ⚡ Fun fact **Why are programming languages so hard to understand? Because Women developed it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
