@@ -1,39 +1,84 @@
-<h1 align="center">Hi 👋, I'm Nafiz Iqbal</h1>
-<h3 align="center">A passionate MERN Stack (Front End Focused) developer from Dhaka, Bangladesh</h3>
+<!-- Futuristic GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naffiziqbal&label=Profile%20views&color=0e75b6&style=flat" alt="naffiziqbal" /> </p>
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Nafiz+Iqbal;MERN+Stack+Developer;Front-End+Focused;Tech+Enthusiast+🚀" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naffiziqbal" alt="naffiziqbal" /></a> </p>
+<h3 align="center" style="color:#00f7ff;">
+  ⚡ A passionate MERN Stack (Front End Focused) Developer from Dhaka, Bangladesh ⚡
+</h3>
 
-<p align="left"> <a href="https://twitter.com/naffiziqbal" target="blank"><img src="https://img.shields.io/twitter/follow/naffiziqbal?logo=twitter&style=for-the-badge" alt="naffiziqbal" /></a> </p>
+---
 
-- 🌱 I’m currently learning Front End Web Application Development
-
-- 👨‍💻 All of my projects are available at [https://nafiziqbal.com](https://nafiziqbal.info)
-
-- 💬 Ask me about **Typescript, React, Next.js , Nest js**
-
-- 📫 How to reach me **f.nafiziqbal@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1auUOLpItuI3Ii7GHcC_Q_7FIoZYOI-NxPaaabOylSnc/edit?usp=sharing)
-
-- ⚡ Fun fact **Why are programming languages so hard to understand? Because Women developed it**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naffiziqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naffiziqbal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naffiziqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naffiziqbal" height="30" width="40" /></a>
-
-<a href="https://fb.com/naffiiziiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naffiiziiqbal" height="30" width="40" /></a>
-<a href="https://instagram.com/naffiziqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naffiziqbal" height="30" width="40" /></a>
-<a href="https://discord.gg/naffiziqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naffiziqbal" height="30" width="40" /></a>
+<!-- Profile Views & Socials -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naffiziqbal&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="profile views"/>
+  <a href="https://twitter.com/naffiziqbal" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/naffiziqbal?logo=twitter&style=for-the-badge&color=FF00FF" alt="twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/naffiziqbal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naffiziqbal&show_icons=true&locale=en&layout=compact" alt="naffiziqbal" /></p>
+<!-- About Me -->
+## 🚀 About Me  
+- 🌱 Currently learning **Front End Web Application Development**  
+- 👨‍💻 My projects live here 👉 [nafiziqbal.com](https://nafiziqbal.info)  
+- 💬 Ask me about **TypeScript, React, Next.js, Nest.js**  
+- 📫 Reach me at **f.nafiziqbal@gmail.com**  
+- 📄 Check my [Resume]([https://docs.google.com/document/d/1auUOLpItuI3Ii7GHcC_Q_7FIoZYOI-NxPaaabOylSnc/edit?usp=sharing](https://drive.google.com/file/d/16RrCqxukvxn_1zEDzfZAZvL5-mfjs27M/view?usp=sharing))  
+- ⚡ Fun fact: *Why are programming languages so hard to understand? Because women developed it* 😅  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&locale=en" alt="naffiziqbal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naffiziqbal&" alt="naffiziqbal" /></p>
+<!-- Connect -->
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://twitter.com/naffiziqbal"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linkedin.com/in/naffiziqbal"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://fb.com/naffiiziiqbal"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/naffiziqbal"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://discord.gg/naffiziqbal"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
+
+---
+
+<!-- Skills -->
+## 🛠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,git,linux,figma,xd,postman" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naffiziqbal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naffiziqbal&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=FFFFFF" />
+</p>
+
+---
+
+<!-- Trophy -->
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naffiziqbal&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+</p>
+
+---
+
+<!-- Footer -->
+<h3 align="center" style="color:#FF00FF;">
+  ⚡ “Code is like humor. When you have to explain it, it’s bad.” ⚡
+</h3>
+
