@@ -1,92 +1,79 @@
 # Hi, I'm Naffiz 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=naffiziqbal&label=Profile%20views&color=0e75b6)](https://github.com/naffiziqbal)
-[![GitHub followers](https://img.shields.io/github/followers/naffiziqbal?label=Follow&style=social)](https://github.com/naffiziqbal)
-[![Website](https://img.shields.io/website?label=portfolio&url=https%3A%2F%2Fyour-portfolio.example)](https://your-portfolio.example)
+[![Profile Views](https://komarev.com/ghpvc/?username=naffiziqbal\&label=Profile%20views\&color=0e75b6)](https://github.com/naffiziqbal)
+[![GitHub followers](https://img.shields.io/github/followers/naffiziqbal?label=Follow\&style=social)](https://github.com/naffiziqbal)
 
 ---
 
-I’m Naffiz — a passionate software developer focused on building clean, maintainable systems and delightful user experiences. I love learning new technologies, contributing to open source, and sharing what I learn along the way.
+I’m Naffiz — a full‑stack web developer who enjoys building fast, elegant, and user‑focused digital experiences. I specialize in TypeScript, modern frontend frameworks, and scalable backend systems.
 
-- 🔭 I’m currently working on: personal projects & improving my portfolio
-- 🌱 I’m learning: advanced backend architecture, system design, and cloud-native patterns
-- 💬 Ask me about: JavaScript/TypeScript, Node.js, React, REST APIs, Git & open source workflows
-- ⚡ Fun fact: I enjoy turning rough ideas into polished, working demos
+* 🔭 Currently working on improving my portfolio & personal projects
+* 🌱 Learning advanced backend architecture, system design, and cloud patterns
+* 💬 Ask me about: JavaScript, TypeScript, React, Next.js, Node.js, REST APIs
+* ⚡ Fun fact: I love turning rough ideas into polished, working prototypes
 
 ---
 
-## Tech Stack
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, Fastify
-- Databases: PostgreSQL, MongoDB
-- DevOps & Cloud: GitHub Actions, Docker, Vercel, AWS (basic)
-- Tools: Git, GitHub, VS Code, Postman
+## Skills
+
+**Languages:** JavaScript, TypeScript, Python
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Express.js, Fastify, NestJS (learning)
+**Databases:** MongoDB, PostgreSQL
+**Tools:** Git, GitHub, VS Code, Postman
+**DevOps / Cloud:** Docker, GitHub Actions, Vercel, AWS (basic)
 
 ---
 
 ## Featured Projects
-(Replace placeholders with real project links and short descriptions.)
 
-### Project Name — What it does (🔗 link)
-- Short 1–2 line description that states the problem solved and tech used.
-- Highlights: performance, UX polish, interesting technical challenge.
+### Emerald Restaurants — Premium Restaurant Group
 
-### Another Project — What it does (🔗 link)
-- Short description and notable achievements (tests, CI, automation, or deploy).
+A multi-brand restaurant ecosystem with Thai, Chinese, Bistro, Fusion, and Dessert outlets across Dhaka. Built to highlight brand identity, showcase menus, and optimize user navigation.
 
-For each project include:
-- Tech stack
-- Live demo (if available)
-- Link to repository and README with screenshots + quickstart
+* Website: [https://emeraldrestaurants.com/](https://emeraldrestaurants.com/)
+
+### Hotel The Manha LTD — Hospitality Website
+
+A modern hotel website focused on clarity, booking experience, and trust-building. Designed for both business and leisure travelers.
+
+* Website: [https://hotelthemanhaltd.com/](https://hotelthemanhaltd.com/)
+
+### Private Exams — Online Exam Registration Platform
+
+Streamlined exam registration with secure online proctoring and academic support tools.
+
+* Website: [https://www.privateexams.uk/](https://www.privateexams.uk/)
 
 ---
 
 ## Contributions & Open Source
-I contribute to OSS and enjoy collaborating on projects that help others learn and build faster. When contributing, I aim for clear PRs, good tests, and helpful documentation.
 
-- Tip: Add a CONTRIBUTING.md and clear ISSUE/PR templates to make it easy for others to help.
+I enjoy contributing to open‑source projects that help developers learn and build better, faster, and cleaner. I focus on maintainable PRs with clear commits and useful documentation.
 
 ---
 
 ## Achievements & Learning
-- Completed real-world projects and published demos/publications
-- Regularly upskill through courses, open-source contribution, and reading
+
+* Built multiple real‑world, production‑ready projects
+* Continuously upskilling through reading, courses, and hands‑on practice
+* Exploring cloud‑native architecture and scalable system design
 
 ---
 
-## How to Contact
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter/X: https://twitter.com/your-handle
+## Contact
 
-Open to job opportunities, mentorship, and collaboration. If you’d like to work together or just say hi — send a message!
+* Portfolio: [https://nafiziqbal.info/](https://nafiziqbal.info/)
+* Email: [f.nafiziqbal@gmail.com](mailto:f.nafiziqbal@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/naffiziqbal/](https://www.linkedin.com/in/naffiziqbal/)
+* Twitter/X: [http://x.com/naffiziqbal](http://x.com/naffiziqbal)
+
+Open to new opportunities, collaboration, and meaningful conversations.
 
 ---
 
 ## GitHub Stats
 
-![Naffiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=onedark&count_private=true)
+![Naffiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal\&show_icons=true\&theme=onedark\&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal&layout=compact&theme=onedark)
-
----
-
-## What I recommend adding to make this profile stand out
-- A high-quality profile photo and a short, polished bio (one-line elevator pitch).
-- Pin 4–6 standout repositories (projects with polished READMEs, demos, tests).
-- Add a Projects or Portfolio section with screenshots and live demos.
-- Create a downloadable resume (PDF) in the repo and link it prominently.
-- Add a CONTRIBUTING.md and issue/PR templates to invite collaborators.
-- Add GitHub Actions for linting/tests and a deploy pipeline for demos.
-- Use badges (build, coverage, license) on project READMEs.
-- Keep README concise and use real links/screenshots — replace placeholders.
-
----
-
-If you’d like, I can produce ready-to-commit files for:
-- A polished profile README (this file — replace placeholders with your real links)
-- CONTRIBUTING.md, ISSUE_TEMPLATE, and PULL_REQUEST_TEMPLATE
-- A minimal GitHub Actions workflow to run lint/tests for JavaScript/TypeScript projects
-
-Replace the placeholders above (portfolio URL, email, project links) with your real links and I’ll convert them into ready-to-commit files.
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal\&layout=compact\&theme=onedark)
