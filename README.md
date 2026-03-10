@@ -139,11 +139,14 @@ Stripped out the complexity from UK exam registration. Secure, reliable, and bui
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=onedark&count_private=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naffiziqbal&theme=onedark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal&layout=compact&theme=onedark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=onedark&count_private=true&hide_border=true&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=naffiziqbal&theme=onedark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800)
 
 </div>
+
 
 ---
 
