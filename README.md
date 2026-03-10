@@ -1,79 +1,177 @@
-# Hi, I'm Naffiz 👋
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=naffiziqbal\&label=Profile%20views\&color=0e75b6)](https://github.com/naffiziqbal)
-[![GitHub followers](https://img.shields.io/github/followers/naffiziqbal?label=Follow\&style=social)](https://github.com/naffiziqbal)
+```
+███╗   ██╗ █████╗ ███████╗███████╗██╗███████╗
+████╗  ██║██╔══██╗██╔════╝██╔════╝██║╚════██║
+██╔██╗ ██║███████║█████╗  █████╗  ██║    ██╔╝
+██║╚██╗██║██╔══██║██╔══╝  ██╔══╝  ██║   ██╔╝
+██║ ╚████║██║  ██║██║     ██║     ██║   ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝   ╚═╝
+```
 
----
+### Full-Stack Developer · Dhaka, Bangladesh
+*I don't just write code — I engineer experiences.*
 
-I’m Naffiz — a full‑stack web developer who enjoys building fast, elegant, and user‑focused digital experiences. I specialize in TypeScript, modern frontend frameworks, and scalable backend systems.
+[![Profile Views](https://komarev.com/ghpvc/?username=naffiziqbal&label=visitors&color=0e75b6&style=flat)](https://github.com/naffiziqbal)
+[![Follow](https://img.shields.io/github/followers/naffiziqbal?label=Follow&style=social)](https://github.com/naffiziqbal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nafiziqbal.info-black?style=flat&logo=firefox)](https://nafiziqbal.info/)
 
-* 🔭 Currently working on improving my portfolio & personal projects
-* 🌱 Learning advanced backend architecture, system design, and cloud patterns
-* 💬 Ask me about: JavaScript, TypeScript, React, Next.js, Node.js, REST APIs
-* ⚡ Fun fact: I love turning rough ideas into polished, working prototypes
-
----
-
-## Skills
-
-**Languages:** JavaScript, TypeScript, Python
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express.js, Fastify, NestJS (learning)
-**Databases:** MongoDB, PostgreSQL
-**Tools:** Git, GitHub, VS Code, Postman
-**DevOps / Cloud:** Docker, GitHub Actions, Vercel, AWS (basic)
+</div>
 
 ---
 
-## Featured Projects
+## `> whoami`
 
-### Emerald Restaurants — Premium Restaurant Group
+A developer with a bias for **shipping**. I take messy ideas, untangle them into clean systems, and push them live — fast. My stack is TypeScript-first, my designs are user-first, and my commits are always squashed.
 
-A multi-brand restaurant ecosystem with Thai, Chinese, Bistro, Fusion, and Dessert outlets across Dhaka. Built to highlight brand identity, showcase menus, and optimize user navigation.
+Right now I'm deep in **advanced backend architecture** and **cloud-native systems** — because building something that *works* is table stakes. Building something that *scales* is the real game.
 
-* Website: [https://emeraldrestaurants.com/](https://emeraldrestaurants.com/)
-
-### Hotel The Manha LTD — Hospitality Website
-
-A modern hotel website focused on clarity, booking experience, and trust-building. Designed for both business and leisure travelers.
-
-* Website: [https://hotelthemanhaltd.com/](https://hotelthemanhaltd.com/)
-
-### Private Exams — Online Exam Registration Platform
-
-Streamlined exam registration with secure online proctoring and academic support tools.
-
-* Website: [https://www.privateexams.uk/](https://www.privateexams.uk/)
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 ---
 
-## Contributions & Open Source
+## `> currently_building`
 
-I enjoy contributing to open‑source projects that help developers learn and build better, faster, and cleaner. I focus on maintainable PRs with clear commits and useful documentation.
+> These are live. In progress. Shipping as you read this.
 
----
+### 🔥 [Internet Camp Fire](https://internetcampfire.com)
+> A place to gather, share, and vibe on the internet — like a digital campfire for communities.
 
-## Achievements & Learning
+The internet used to feel like a place. This brings that back. Building the community layer, real-time features, and the ambient experience that makes people want to stay.
 
-* Built multiple real‑world, production‑ready projects
-* Continuously upskilling through reading, courses, and hands‑on practice
-* Exploring cloud‑native architecture and scalable system design
-
----
-
-## Contact
-
-* Portfolio: [https://nafiziqbal.info/](https://nafiziqbal.info/)
-* Email: [f.nafiziqbal@gmail.com](mailto:f.nafiziqbal@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/naffiziqbal/](https://www.linkedin.com/in/naffiziqbal/)
-* Twitter/X: [http://x.com/naffiziqbal](http://x.com/naffiziqbal)
-
-Open to new opportunities, collaboration, and meaningful conversations.
+`Next.js` `TypeScript` `WebSockets` `PostgreSQL`
 
 ---
 
-## GitHub Stats
+### 🎬 [VidSage](https://saas.nafiziqbal.info)
+> AI-powered video intelligence SaaS — because watching is not the same as understanding.
 
-![Naffiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal\&show_icons=true\&theme=onedark\&count_private=true)
+Stop scrubbing through hours of footage. VidSage extracts what matters. Built for creators, researchers, and anyone who works with video at scale.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal\&layout=compact\&theme=onedark)
+`Next.js` `TypeScript` `AI/LLM` `Node.js` `SaaS`
+
+---
+
+### 📚 [Learn Dashly](https://learndashly.nafiziqbal.info)
+> A learning dashboard that doesn't feel like a chore.
+
+Most learning platforms are built for institutions, not humans. Learn Dashly is built for the person who actually has to sit down and study — progress tracking, focus sessions, and a UI that gets out of the way.
+
+`React` `Next.js` `TypeScript` `MongoDB`
+
+---
+
+## `> skills --list`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+```
+JavaScript  ████████████  Expert
+TypeScript  ████████████  Expert
+Python      ████████░░░░  Comfortable
+```
+
+**Frontend**
+```
+React       ████████████  Expert
+Next.js     ████████████  Expert
+Tailwind    ████████████  Expert
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+```
+Node.js     ████████████  Expert
+Express     ████████████  Expert
+Fastify     ████████░░░░  Advanced
+NestJS      ██████░░░░░░  Growing
+```
+
+**Infra & Tools**
+```
+PostgreSQL  ████████░░░░  Advanced
+MongoDB     ████████████  Expert
+Docker      ██████░░░░░░  Comfortable
+AWS         ████░░░░░░░░  Learning
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> projects --featured`
+
+### 🍽 [Emerald Restaurants](https://emeraldrestaurants.com/)
+> Multi-brand restaurant ecosystem — Thai, Chinese, Bistro, Fusion & Dessert
+
+Five distinct brands. One cohesive digital platform. Built to drive footfall through sharp brand identity, intuitive menus, and navigation that gets out of the way of the food.
+
+`Next.js` `Tailwind CSS` `TypeScript` `Vercel`
+
+---
+
+### 🏨 [Hotel The Manha Ltd](https://hotelthemanhaltd.com/)
+> Hospitality website built for conversion and trust
+
+Hotels live or die on first impressions. This site was engineered to build instant credibility — clean layouts, fast loads, and a booking experience that doesn't make guests think twice.
+
+`React` `Node.js` `REST API` `PostgreSQL`
+
+---
+
+### 📝 [Private Exams UK](https://www.privateexams.uk/)
+> Online exam registration platform with secure proctoring
+
+Stripped out the complexity from UK exam registration. Secure, reliable, and built for users who are already stressed enough without wrestling with a broken form.
+
+`Next.js` `TypeScript` `MongoDB` `Auth`
+
+---
+
+## `> stats --verbose`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=onedark&count_private=true&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naffiziqbal&theme=onedark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal&layout=compact&theme=onedark&hide_border=true)
+
+</div>
+
+---
+
+## `> open_source --philosophy`
+
+I treat open source the same way I treat my own codebase — **clean PRs, meaningful commits, no drive-by patches**. If I touch your repo, I leave it better than I found it. Currently on the lookout for projects in the TypeScript / developer tooling space worth contributing to.
+
+---
+
+## `> contact --open-to`
+
+```bash
+$ naffiz --available-for freelance collabs fulltime-roles
+```
+
+| Channel | Link |
+|---------|------|
+| 🌐 Portfolio | [nafiziqbal.info](https://nafiziqbal.info/) |
+| 📧 Email | [f.nafiziqbal@gmail.com](mailto:f.nafiziqbal@gmail.com) |
+| 💼 LinkedIn | [/in/naffiziqbal](https://www.linkedin.com/in/naffiziqbal/) |
+| 🐦 Twitter/X | [@naffiziqbal](http://x.com/naffiziqbal) |
+
+---
+
+<div align="center">
+
+*Building in public. Shipping in production. Always learning.*
+
+**Let's build something worth using.**
+
+</div>
