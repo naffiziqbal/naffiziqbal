@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=naffiziqbal&label=visitors&color=0e75b6&style=flat)](https://github.com/naffiziqbal)
 [![Follow](https://img.shields.io/github/followers/naffiziqbal?label=Follow&style=social)](https://github.com/naffiziqbal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nafiziqbal.info-black?style=flat&logo=firefox)](https://nafiziqbal.info/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nafiziqbal.com-black?style=flat&logo=firefox)](https://nafiziqbal.com/)
 
 </div>
 
@@ -43,7 +43,7 @@ The internet used to feel like a place. This brings that back. Building the comm
 
 ---
 
-### 🎬 [VidSage](https://saas.nafiziqbal.info)
+### 🎬 [VidSage](https://saas.nafiziqbal.com)
 > AI-powered video intelligence SaaS — because watching is not the same as understanding.
 
 Stop scrubbing through hours of footage. VidSage extracts what matters. Built for creators, researchers, and anyone who works with video at scale.
@@ -52,7 +52,7 @@ Stop scrubbing through hours of footage. VidSage extracts what matters. Built fo
 
 ---
 
-### 📚 [Learn Dashly](https://learndashly.nafiziqbal.info)
+### 📚 [Learn Dashly](https://learndashly.nafiziqbal.com)
 > A learning dashboard that doesn't feel like a chore.
 
 Most learning platforms are built for institutions, not humans. Learn Dashly is built for the person who actually has to sit down and study — progress tracking, focus sessions, and a UI that gets out of the way.
@@ -164,7 +164,7 @@ $ naffiz --available-for freelance collabs fulltime-roles
 
 | Channel | Link |
 |---------|------|
-| 🌐 Portfolio | [nafiziqbal.info](https://nafiziqbal.info/) |
+| 🌐 Portfolio | [nafiziqbal.com](https://nafiziqbal.com/) |
 | 📧 Email | [f.nafiziqbal@gmail.com](mailto:f.nafiziqbal@gmail.com) |
 | 💼 LinkedIn | [/in/naffiziqbal](https://www.linkedin.com/in/naffiziqbal/) |
 | 🐦 Twitter/X | [@naffiziqbal](http://x.com/naffiziqbal) |
