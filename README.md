@@ -1,180 +1,292 @@
 <div align="center">
 
-```
-███╗   ██╗ █████╗ ███████╗███████╗██╗███████╗
-████╗  ██║██╔══██╗██╔════╝██╔════╝██║╚════██║
-██╔██╗ ██║███████║█████╗  █████╗  ██║    ██╔╝
-██║╚██╗██║██╔══██║██╔══╝  ██╔══╝  ██║   ██╔╝
-██║ ╚████║██║  ██║██║     ██║     ██║   ██║ 
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝   ╚═╝
-```
+# Nafiz Iqbal
 
-### Full-Stack Developer · Dhaka, Bangladesh
-*I don't just write code — I engineer experiences.*
+**Full-Stack Developer · Dhaka, Bangladesh**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=naffiziqbal&label=visitors&color=0e75b6&style=flat)](https://github.com/naffiziqbal)
-[![Follow](https://img.shields.io/github/followers/naffiziqbal?label=Follow&style=social)](https://github.com/naffiziqbal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nafiziqbal.com-black?style=flat&logo=firefox)](https://nafiziqbal.com/)
+Building scalable SaaS products, AI applications, and modern web platforms with **Next.js**, **NestJS**, and **TypeScript**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nafiziqbal.com-1f2328?style=flat&logo=firefox&logoColor=white)](https://nafiziqbal.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naffiziqbal-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naffiziqbal/)
+[![Email](https://img.shields.io/badge/Email-f.nafiziqbal%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:f.nafiziqbal@gmail.com)
 
 </div>
 
 ---
 
-## `> whoami`
+## About
 
-A developer with a bias for **shipping**. I take messy ideas, untangle them into clean systems, and push them live — fast. My stack is TypeScript-first, my designs are user-first, and my commits are always squashed.
+I'm a **Full-Stack Developer** with **3+ years of experience** building SaaS products, booking platforms, browser extensions, and business applications from architecture to deployment.
 
-Right now I'm deep in **advanced backend architecture** and **cloud-native systems** — because building something that *works* is table stakes. Building something that *scales* is the real game.
+My primary stack includes **TypeScript**, **React**, **Next.js**, **NestJS**, **Node.js**, **PostgreSQL**, and **MongoDB**. I enjoy designing scalable backend systems, optimizing frontend performance, and shipping products that solve real-world problems.
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+Outside of client work, I build my own SaaS products and developer tools, giving me hands-on experience making product decisions, iterating quickly, and learning directly from users.
 
----
+> *Software that works is the baseline. Software that scales is the job.*
 
-## `> currently_building`
+**Currently interested in**
 
-> These are live. In progress. Shipping as you read this.
+- Backend Architecture
+- AI Applications
+- Cloud Infrastructure
+- Developer Tools
+- System Design
 
-### 🔥 [Internet Camp Fire](https://internetcampfire.com)
-> A place to gather, share, and vibe on the internet — like a digital campfire for communities.
-
-The internet used to feel like a place. This brings that back. Building the community layer, real-time features, and the ambient experience that makes people want to stay.
-
-`Next.js` `TypeScript` `WebSockets` `PostgreSQL`
-
----
-
-### 🎬 [VidSage](https://saas.nafiziqbal.com)
-> AI-powered video intelligence SaaS — because watching is not the same as understanding.
-
-Stop scrubbing through hours of footage. VidSage extracts what matters. Built for creators, researchers, and anyone who works with video at scale.
-
-`Next.js` `TypeScript` `AI/LLM` `Node.js` `SaaS`
+**Open to:** Full-time · Contract · Freelance
 
 ---
 
-### 📚 [Learn Dashly](https://learndashly.nafiziqbal.com)
-> A learning dashboard that doesn't feel like a chore.
+# Featured Projects
 
-Most learning platforms are built for institutions, not humans. Learn Dashly is built for the person who actually has to sit down and study — progress tracking, focus sessions, and a UI that gets out of the way.
+## Foundry
 
-`React` `Next.js` `TypeScript` `MongoDB`
+**https://foundry.nafiziqbal.com**
 
----
+AI-powered content creation platform that helps businesses generate marketing content, social posts, blogs, and creative assets in minutes.
 
-## `> skills --list`
+### Highlights
 
-<table>
-<tr>
-<td valign="top" width="50%">
+- AI-powered content generation
+- Authentication & dashboard
+- Modern SaaS architecture
+- Responsive UI
+- Production deployment
 
-**Languages**
-```
-JavaScript  ████████████  Expert
-TypeScript  ████████████  Expert
-Python      ████████░░░░  Comfortable
-```
+**Tech**
 
-**Frontend**
-```
-React       ████████████  Expert
-Next.js     ████████████  Expert
-Tailwind    ████████████  Expert
-```
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-```
-Node.js     ████████████  Expert
-Express     ████████████  Expert
-Fastify     ████████░░░░  Advanced
-NestJS      ██████░░░░░░  Growing
-```
-
-**Infra & Tools**
-```
-PostgreSQL  ████████░░░░  Advanced
-MongoDB     ████████████  Expert
-Docker      ██████░░░░░░  Comfortable
-AWS         ████░░░░░░░░  Learning
-```
-
-</td>
-</tr>
-</table>
+`Next.js`
+`React`
+`TypeScript`
+`Tailwind CSS`
+`PostgreSQL`
 
 ---
 
-## `> projects --featured`
+## FeedKit
 
-### 🍽 [Emerald Restaurants](https://emeraldrestaurants.com/)
-> Multi-brand restaurant ecosystem — Thai, Chinese, Bistro, Fusion & Dessert
+**Chrome Extension**
 
-Five distinct brands. One cohesive digital platform. Built to drive footfall through sharp brand identity, intuitive menus, and navigation that gets out of the way of the food.
+https://chromewebstore.google.com/detail/lcpemfagmobmjkacbmejifldemljpbfb
 
-`Next.js` `Tailwind CSS` `TypeScript` `Vercel`
+A productivity-focused Chrome Extension that removes distractions from Facebook and helps users stay focused without leaving the platform.
+
+### Features
+
+- Hide Reels
+- Hide Stories
+- Remove Sponsored Posts
+- Remove Suggested Posts
+- Keyword Filtering
+- Reading Mode
+- Zen Mode
+- Daily Usage Limits
+- Local-first Privacy
+- Built with Manifest V3
+
+**Tech**
+
+`Chrome Extension`
+`Manifest V3`
+`React`
+`TypeScript`
+`Vite`
 
 ---
 
-### 🏨 [Hotel The Manha Ltd](https://hotelthemanhaltd.com/)
-> Hospitality website built for conversion and trust
+## VidSage
 
-Hotels live or die on first impressions. This site was engineered to build instant credibility — clean layouts, fast loads, and a booking experience that doesn't make guests think twice.
+AI-powered video intelligence platform that automatically understands, organizes, and renames videos using AI.
 
-`React` `Node.js` `REST API` `PostgreSQL`
+**Tech**
 
----
-
-### 📝 [Private Exams UK](https://www.privateexams.uk/)
-> Online exam registration platform with secure proctoring
-
-Stripped out the complexity from UK exam registration. Secure, reliable, and built for users who are already stressed enough without wrestling with a broken form.
-
-`Next.js` `TypeScript` `MongoDB` `Auth`
+`Next.js`
+`TypeScript`
+`Node.js`
+`AI`
 
 ---
 
-## `> stats --verbose`
+## LearnDashly
+
+https://learndashly.nafiziqbal.com
+
+Learning dashboard focused on productivity, study sessions, and progress tracking.
+
+**Tech**
+
+`Next.js`
+`React`
+`MongoDB`
+`TypeScript`
+
+---
+
+# Professional Experience
+
+## Full-Stack Developer
+
+### GCB Holding (Remote, Morocco)
+
+**Oct 2025 – Present**
+
+- Building production SaaS applications
+- Developing scalable APIs using NestJS
+- Designing modern React & Next.js applications
+- Deploying cloud-native systems
+- Working with distributed international teams
+
+---
+
+## Frontend / Full-Stack Developer
+
+### Antopolis
+
+**Apr 2024 – Dec 2025**
+
+### Highlights
+
+- Delivered **20+ production features**
+- Led frontend development initiatives
+- Improved Lighthouse score from **58 → 95+**
+- Increased SEO score from **60 → 95+**
+- Built features for an international booking platform serving **13 countries**
+
+---
+
+# Selected Work
+
+## Kingdom Markets
+
+International booking platform serving users across **13 countries**.
+
+### Contributions
+
+- Large-scale booking flows
+- Multilingual platform
+- Payment integrations
+- Booking synchronization
+- Performance optimization
+- Frontend architecture
+
+**Stack**
+
+`Next.js`
+`NestJS`
+`PostgreSQL`
+`Redis`
+
+---
+
+## Emerald Restaurants
+
+Digital platform powering multiple restaurant brands from a shared codebase.
+
+**Stack**
+
+`Next.js`
+`TypeScript`
+`Tailwind CSS`
+
+---
+
+## Hotel The Manha Ltd
+
+High-performance hospitality website focused on SEO, performance, and direct bookings.
+
+**Stack**
+
+`React`
+`Node.js`
+`PostgreSQL`
+
+---
+
+## Private Exams UK
+
+Secure online examination registration platform.
+
+**Stack**
+
+`Next.js`
+`MongoDB`
+`TypeScript`
+
+---
+
+# Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | TypeScript • JavaScript • Python |
+| **Frontend** | React • Next.js • Tailwind CSS • Shadcn UI |
+| **Backend** | NestJS • Node.js • Express • Fastify |
+| **Databases** | PostgreSQL • MongoDB • Redis |
+| **ORM** | Prisma |
+| **Queues** | BullMQ • RabbitMQ |
+| **Cloud** | Docker • DigitalOcean • Cloudflare • Vercel |
+| **Storage** | DigitalOcean Spaces • AWS S3 |
+| **Tools** | Git • GitHub Actions • Linux • Postman |
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=onedark&count_private=true&hide_border=true&cache_seconds=1800)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naffiziqbal&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=naffiziqbal&theme=onedark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naffiziqbal&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800)
+<img height="170" src="https://streak-stats.demolab.com?user=naffiziqbal&theme=transparent&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naffiziqbal&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ---
 
-## `> open_source --philosophy`
+# What I Enjoy Building
 
-I treat open source the same way I treat my own codebase — **clean PRs, meaningful commits, no drive-by patches**. If I touch your repo, I leave it better than I found it. Currently on the lookout for projects in the TypeScript / developer tooling space worth contributing to.
+- SaaS Products
+- AI-powered Applications
+- Browser Extensions
+- Internal Tools
+- Booking Platforms
+- Developer Tools
+- REST APIs
+- Backend Systems
+- Modern Web Applications
 
 ---
 
-## `> contact --open-to`
+# Open Source
 
-```bash
-$ naffiz --available-for freelance collabs fulltime-roles
-```
+I enjoy contributing to projects around TypeScript, React, Next.js, NestJS, and developer tooling.
 
-| Channel | Link |
-|---------|------|
-| 🌐 Portfolio | [nafiziqbal.com](https://nafiziqbal.com/) |
-| 📧 Email | [f.nafiziqbal@gmail.com](mailto:f.nafiziqbal@gmail.com) |
-| 💼 LinkedIn | [/in/naffiziqbal](https://www.linkedin.com/in/naffiziqbal/) |
-| 🐦 Twitter/X | [@naffiziqbal](http://x.com/naffiziqbal) |
+My focus is writing maintainable code, improving developer experience, and leaving repositories better than I found them.
+
+---
+
+# Connect
+
+🌐 **Portfolio**  
+https://nafiziqbal.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/naffiziqbal
+
+📧 **Email**  
+f.nafiziqbal@gmail.com
+
+🐦 **X**  
+https://x.com/naffiziqbal
 
 ---
 
 <div align="center">
 
-*Building in public. Shipping in production. Always learning.*
-
-**Let's build something worth using.**
+### Building products people actually use.
 
 </div>
