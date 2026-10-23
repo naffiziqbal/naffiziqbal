@@ -4,11 +4,14 @@
 
 **Full-Stack Developer · Dhaka, Bangladesh**
 
-Building scalable SaaS products, AI applications, and modern web platforms with **Next.js**, **NestJS**, and **TypeScript**.
+React · Next.js · Node.js · PostgreSQL · Performance & Technical SEO
+
+I build, ship and maintain production web apps end to end, from the UI down to the database and the Linux server it runs on.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nafiziqbal.com-1f2328?style=flat&logo=firefox&logoColor=white)](https://nafiziqbal.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naffiziqbal-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naffiziqbal/)
 [![Email](https://img.shields.io/badge/Email-f.nafiziqbal%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:f.nafiziqbal@gmail.com)
+[![X](https://img.shields.io/badge/X-naffiziqbal-000000?style=flat&logo=x&logoColor=white)](https://x.com/naffiziqbal)
 
 </div>
 
@@ -16,220 +19,117 @@ Building scalable SaaS products, AI applications, and modern web platforms with 
 
 ## About
 
-I'm a **Full-Stack Developer** with **3+ years of experience** building SaaS products, booking platforms, browser extensions, and business applications from architecture to deployment.
+I'm a **Full-Stack Developer** with **3+ years** of building, maintaining and troubleshooting production web applications: **Next.js** and **React** interfaces, **REST APIs**, **Node.js / NestJS** services, **PostgreSQL** and **MongoDB** databases, and **Docker / Nginx** deployments on Linux servers.
 
-My primary stack includes **TypeScript**, **React**, **Next.js**, **NestJS**, **Node.js**, **PostgreSQL**, and **MongoDB**. I enjoy designing scalable backend systems, optimizing frontend performance, and shipping products that solve real-world problems.
+I own applications independently, from finding and fixing production issues to improving speed and search visibility. On a 13-country booking platform I took **Google PageSpeed from 58 → 95+** and **technical SEO scores from 60 → 95+**.
 
-Outside of client work, I build my own SaaS products and developer tools, giving me hands-on experience making product decisions, iterating quickly, and learning directly from users.
+I use **Claude Code** and **Cursor** daily for planning, building and debugging, with human review of all generated code.
 
 > *Software that works is the baseline. Software that scales is the job.*
 
-**Currently interested in**
-
-- Backend Architecture
-- AI Applications
-- Cloud Infrastructure
-- Developer Tools
-- System Design
-
-**Open to:** Full-time · Contract · Freelance
+**Open to:** Full-time · Contract · Freelance · Relocation (available at short notice)
 
 ---
 
-# Featured Projects
+## Experience
 
-## Foundry
+### Full-Stack Engineer · GCB Holding
+*Remote (Morocco) · Dec 2025 – Present*
 
-**https://foundry.nafiziqbal.com**
+Working on **Kingdom Markets**, a travel booking platform operating in **13 countries**.
 
-AI-powered content creation platform that helps businesses generate marketing content, social posts, blogs, and creative assets in minutes.
+- Lead frontend development; shipped **20+ production features** across booking, payment, vendor and consumer flows
+- Took Google PageSpeed from **58 → 95+** with code splitting, image optimization and render-path fixes, tracking Core Web Vitals throughout
+- Raised technical SEO scores on key landing pages from **60 → 95+** (crawlability, rendering, metadata)
+- Handle backend integrations, background processing and production debugging
+- Built Python data pipelines (Selenium, BeautifulSoup) that extract hotel, room, pricing, image and location data for listings
 
-### Highlights
+### Full-Stack Engineer · Antopolis
+*Dhaka, Bangladesh · Apr 2024 – Dec 2025*
 
-- AI-powered content generation
-- Authentication & dashboard
-- Modern SaaS architecture
-- Responsive UI
-- Production deployment
+- Built and maintained management software for **Emerald Restaurant's 18 branches**, including admin and branch apps used daily by staff
+- Merged **4 separate APIs into one unified API layer**, cutting client-side network overhead
+- Resolved production incidents with backend engineers and improved REST API integration and system design
+- Owned frontend architecture and set the reusable patterns and coding standards the team followed
 
-**Tech**
+### Full-Stack Web Developer (Freelance)
+*Remote · Jan 2023 – Present*
 
-`Next.js`
-`React`
-`TypeScript`
-`Tailwind CSS`
-`PostgreSQL`
-
----
-
-## FeedKit
-
-**Chrome Extension**
-
-https://chromewebstore.google.com/detail/lcpemfagmobmjkacbmejifldemljpbfb
-
-A productivity-focused Chrome Extension that removes distractions from Facebook and helps users stay focused without leaving the platform.
-
-### Features
-
-- Hide Reels
-- Hide Stories
-- Remove Sponsored Posts
-- Remove Suggested Posts
-- Keyword Filtering
-- Reading Mode
-- Zen Mode
-- Daily Usage Limits
-- Local-first Privacy
-- Built with Manifest V3
-
-**Tech**
-
-`Chrome Extension`
-`Manifest V3`
-`React`
-`TypeScript`
-`Vite`
+- Delivered **8+ production web applications** end to end: requirements, database and API design, development, deployment and hosting on Linux VPS
+- Designed and launched the public website and admin panel for **Hotel The Manha Ltd**, a 3-star hotel in Dhaka, using Next.js SSR
+- Run Docker / Nginx deployments and handle ongoing maintenance, performance and Core Web Vitals for client sites
+- Worked with founders to take SaaS products and internal tools from MVP to production
 
 ---
 
-## VidSage
+## Featured Projects
 
-AI-powered video intelligence platform that automatically understands, organizes, and renames videos using AI.
+### Thought Expense: AI-Powered Expense Tracker
+**[thought-expense.nafiziqbal.com](https://thought-expense.nafiziqbal.com)**
 
-**Tech**
+Designed, built and deployed the whole product solo: architecture, mobile client, backend, database and production hosting. Submissions stay reliable on poor connections thanks to client-generated IDs, Redis-backed idempotency and worker-level duplicate checks.
 
-`Next.js`
-`TypeScript`
-`Node.js`
-`AI`
+`React Native` `Node.js` `PostgreSQL` `Redis` `Google Gemini` `Pinecone`
 
----
+### Foundry
+**[foundry.nafiziqbal.com](https://foundry.nafiziqbal.com)**
 
-## LearnDashly
+AI-powered content creation platform that helps businesses generate marketing content, social posts, blogs and creative assets in minutes.
 
-https://learndashly.nafiziqbal.com
+`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL`
 
-Learning dashboard focused on productivity, study sessions, and progress tracking.
+### FeedKit: Chrome Extension
+**[Chrome Web Store](https://chromewebstore.google.com/detail/lcpemfagmobmjkacbmejifldemljpbfb)**
 
-**Tech**
+Removes distractions from Facebook so you can stay focused without leaving the platform: hide Reels, Stories, sponsored and suggested posts, keyword filtering, reading and Zen modes, daily usage limits. Local-first and privacy-friendly.
 
-`Next.js`
-`React`
-`MongoDB`
-`TypeScript`
+`Manifest V3` `React` `TypeScript` `Vite`
 
----
+### VidSage
 
-# Professional Experience
+AI-powered video intelligence platform that automatically understands, organizes and renames videos.
 
-## Full-Stack Developer
+`Next.js` `TypeScript` `Node.js` `AI`
 
-### GCB Holding (Remote, Morocco)
+### LearnDashly
+**[learndashly.nafiziqbal.com](https://learndashly.nafiziqbal.com)**
 
-**Oct 2025 – Present**
+Learning dashboard focused on productivity, study sessions and progress tracking.
 
-- Building production SaaS applications
-- Developing scalable APIs using NestJS
-- Designing modern React & Next.js applications
-- Deploying cloud-native systems
-- Working with distributed international teams
+`Next.js` `React` `MongoDB` `TypeScript`
 
 ---
 
-## Frontend / Full-Stack Developer
+## Selected Client Work
 
-### Antopolis
-
-**Apr 2024 – Dec 2025**
-
-### Highlights
-
-- Delivered **20+ production features**
-- Led frontend development initiatives
-- Improved Lighthouse score from **58 → 95+**
-- Increased SEO score from **60 → 95+**
-- Built features for an international booking platform serving **13 countries**
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **Kingdom Markets** | Travel booking platform across 13 countries: booking flows, payments, multilingual, performance | Next.js · NestJS · PostgreSQL · Redis |
+| **Emerald Restaurants** | Management software for 18 branches, with admin and branch apps | Next.js · TypeScript · Tailwind CSS |
+| **Hotel The Manha Ltd** | Public website + admin panel, built for SEO, speed and direct bookings | Next.js (SSR) · Node.js · PostgreSQL |
+| **Private Exams UK** | Secure online exam registration platform | Next.js · MongoDB · TypeScript |
 
 ---
 
-# Selected Work
-
-## Kingdom Markets
-
-International booking platform serving users across **13 countries**.
-
-### Contributions
-
-- Large-scale booking flows
-- Multilingual platform
-- Payment integrations
-- Booking synchronization
-- Performance optimization
-- Frontend architecture
-
-**Stack**
-
-`Next.js`
-`NestJS`
-`PostgreSQL`
-`Redis`
-
----
-
-## Emerald Restaurants
-
-Digital platform powering multiple restaurant brands from a shared codebase.
-
-**Stack**
-
-`Next.js`
-`TypeScript`
-`Tailwind CSS`
-
----
-
-## Hotel The Manha Ltd
-
-High-performance hospitality website focused on SEO, performance, and direct bookings.
-
-**Stack**
-
-`React`
-`Node.js`
-`PostgreSQL`
-
----
-
-## Private Exams UK
-
-Secure online examination registration platform.
-
-**Stack**
-
-`Next.js`
-`MongoDB`
-`TypeScript`
-
----
-
-# Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** | TypeScript • JavaScript • Python |
-| **Frontend** | React • Next.js • Tailwind CSS • Shadcn UI |
-| **Backend** | NestJS • Node.js • Express • Fastify |
-| **Databases** | PostgreSQL • MongoDB • Redis |
-| **ORM** | Prisma |
-| **Queues** | BullMQ • RabbitMQ |
-| **Cloud** | Docker • DigitalOcean • Cloudflare • Vercel |
+| **Languages** | TypeScript • JavaScript • Python • SQL |
+| **Frontend** | React • Next.js (SSR) • Tailwind CSS • Shadcn UI • Redux • Zustand |
+| **Backend** | Node.js • NestJS • Express • Fastify • REST APIs • JWT / session auth |
+| **Databases** | PostgreSQL • MongoDB • Redis • Prisma |
+| **Queues & Workers** | BullMQ • RabbitMQ |
+| **Performance & SEO** | Core Web Vitals • Lighthouse • code splitting • image optimization • technical SEO |
+| **DevOps** | Docker • Nginx • Linux VPS (DigitalOcean, Contabo) • CI/CD • GitHub Actions • Vercel • Netlify • Cloudflare |
 | **Storage** | DigitalOcean Spaces • AWS S3 |
-| **Tools** | Git • GitHub Actions • Linux • Postman |
+| **Testing & Build** | Jest • React Testing Library • Vite • Webpack |
+| **AI** | Google Gemini • Pinecone • Claude Code • Cursor • GitHub Copilot |
+| **Automation** | Selenium • BeautifulSoup |
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -247,46 +147,16 @@ Secure online examination registration platform.
 
 ---
 
-# What I Enjoy Building
+## What I Enjoy Building
 
-- SaaS Products
-- AI-powered Applications
-- Browser Extensions
-- Internal Tools
-- Booking Platforms
-- Developer Tools
-- REST APIs
-- Backend Systems
-- Modern Web Applications
-
----
-
-# Open Source
-
-I enjoy contributing to projects around TypeScript, React, Next.js, NestJS, and developer tooling.
-
-My focus is writing maintainable code, improving developer experience, and leaving repositories better than I found them.
-
----
-
-# Connect
-
-🌐 **Portfolio**  
-https://nafiziqbal.com
-
-💼 **LinkedIn**  
-https://linkedin.com/in/naffiziqbal
-
-📧 **Email**  
-f.nafiziqbal@gmail.com
-
-🐦 **X**  
-https://x.com/naffiziqbal
+SaaS products · AI-powered applications · Booking platforms · Browser extensions · Internal tools · REST APIs & backend systems · Fast, SEO-friendly web apps
 
 ---
 
 <div align="center">
 
 ### Building products people actually use.
+
+🌐 [nafiziqbal.com](https://nafiziqbal.com) · 💼 [LinkedIn](https://linkedin.com/in/naffiziqbal) · 📧 [f.nafiziqbal@gmail.com](mailto:f.nafiziqbal@gmail.com) · 🐦 [X](https://x.com/naffiziqbal)
 
 </div>
