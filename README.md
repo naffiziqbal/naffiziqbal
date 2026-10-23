@@ -56,7 +56,7 @@ Working on **Kingdom Markets**, a travel booking platform operating in **13 coun
 *Remote · Jan 2023 – Present*
 
 - Delivered **8+ production web applications** end to end: requirements, database and API design, development, deployment and hosting on Linux VPS
-- Designed and launched the public website and admin panel for **Hotel The Manha Ltd**, a 3-star hotel in Dhaka, using Next.js SSR
+- Designed and launched the public website and admin panel for **Hotel The Manha Ltd**, a hotel in Dhaka (Next.js, Express, MongoDB)
 - Run Docker / Nginx deployments and handle ongoing maintenance, performance and Core Web Vitals for client sites
 - Worked with founders to take SaaS products and internal tools from MVP to production
 
@@ -64,49 +64,63 @@ Working on **Kingdom Markets**, a travel booking platform operating in **13 coun
 
 ## Featured Projects
 
-### Thought Expense: AI-Powered Expense Tracker
-**[thought-expense.nafiziqbal.com](https://thought-expense.nafiziqbal.com)**
+Full case studies at **[nafiziqbal.com/projects](https://nafiziqbal.com/projects)**.
 
-Designed, built and deployed the whole product solo: architecture, mobile client, backend, database and production hosting. Submissions stay reliable on poor connections thanks to client-generated IDs, Redis-backed idempotency and worker-level duplicate checks.
+### ThoughtExpense: AI Expense Tracker
+*Personal product · Sole engineer and designer · Live on Android and web*
+**[thought-expense.nafiziqbal.com](https://thought-expense.nafiziqbal.com)** · [Case study](https://nafiziqbal.com/projects/thought-expense)
 
-`React Native` `Node.js` `PostgreSQL` `Redis` `Google Gemini` `Pinecone`
+Type what you spent the way you'd say it, like "coffee 120, uber 250", and it becomes logged, categorised expenses. The categoriser learns from every correction. An on-device pre-parser works offline, the server parses with an LLM plus a hand-authored category catalogue, and heavy endpoints run through a job queue so weak mobile networks never hold a long connection open.
 
-### Foundry
-**[foundry.nafiziqbal.com](https://foundry.nafiziqbal.com)**
+`TypeScript` `React Native` `Next.js` `Node.js` `PostgreSQL` `Redis` `Gemini API`
 
-AI-powered content creation platform that helps businesses generate marketing content, social posts, blogs and creative assets in minutes.
+### Kingdom Market: Multi-Country Travel Platform
+*Employer work (GCB Holding), team project · Full-stack engineer · In production*
+[Case study](https://nafiziqbal.com/projects/kingdom-markets)
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL`
+A multi-vendor travel platform serving **13 countries**. Shipped 20+ production features, own the Python pipelines that pull hotel, room, pricing, image and location data into listings, and led performance work: **PageSpeed 58 → 95+** and **technical SEO 60 → 95+** on key landing pages.
+
+`TypeScript` `React` `Next.js` `REST APIs` `Python` `Selenium` `BeautifulSoup`
+
+### Hotel The Manha: Direct-Booking Platform
+*Client work · Solo designer and full-stack engineer · Delivered 2025*
+[Case study](https://nafiziqbal.com/projects/hotel-the-manha)
+
+Took a Dhaka hotel from phone-only bookings to online reservations: a guest site with a guided date and guest picker, and a backend for rooms, availability, blocked dates, seasonal pricing, branded PDF invoices and email. Availability is re-checked on the server at booking time, so two guests can't take the same night.
+
+`TypeScript` `Next.js` `Express` `MongoDB` `Resend`
+
+### Foundry Hub: Project Management SaaS for Interior Designers
+*Client work · Product designer and full-stack engineer · Built 2025*
+[Case study](https://nafiziqbal.com/projects/foundry-hub)
+
+Replaces spreadsheets, PDF email chains and vendor tabs with one place for sourcing, spec schedules and client sign-off. Paste a vendor URL and a background job turns it into a complete product card in **~10 s**. Includes a drag-to-reorder schedule builder, one-click PDF export and a separate client approval portal.
+
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Background jobs`
 
 ### FeedKit: Chrome Extension
-**[Chrome Web Store](https://chromewebstore.google.com/detail/lcpemfagmobmjkacbmejifldemljpbfb)**
+*Personal product · Sole engineer and designer · 92 users on the Chrome Web Store*
+**[Add to Chrome](https://chromewebstore.google.com/detail/lcpemfagmobmjkacbmejifldemljpbfb)** · [Case study](https://nafiziqbal.com/projects/feedkit)
 
-Removes distractions from Facebook so you can stay focused without leaving the platform: hide Reels, Stories, sponsored and suggested posts, keyword filtering, reading and Zen modes, daily usage limits. Local-first and privacy-friendly.
+Puts you back in charge of your Facebook feed: hide Reels, Stories, sponsored and suggested posts, filter by keyword, build your own rules and cap daily time. Detection relies on ARIA labels and structural signals rather than Facebook's generated class names, so it survives their deploys. No server, no account, and nothing leaves the browser.
 
-`Manifest V3` `React` `TypeScript` `Vite`
+`TypeScript` `React` `Vite` `Tailwind CSS` `Manifest V3`
 
-### VidSage
+### vpsbot-tg: Telegram Bot That Watches Your Server
+*Open source · Sole author*
+**[GitHub](https://github.com/naffiziqbal/vpsbot-tg)** · [Case study](https://nafiziqbal.com/projects/vpsbot-tg)
 
-AI-powered video intelligence platform that automatically understands, organizes and renames videos.
+A read-only Telegram bot for your VPS. Ask it for `/health`, `/logs` or `/sites`, and it alerts you when an app crashes, a certificate is about to expire or something looks like an intrusion. Installs with one command and auto-detects PM2, Docker, nginx and Let's Encrypt. It runs as a locked-down user whose only privilege is one sudo rule for a read-only helper.
 
-`Next.js` `TypeScript` `Node.js` `AI`
-
-### LearnDashly
-**[learndashly.nafiziqbal.com](https://learndashly.nafiziqbal.com)**
-
-Learning dashboard focused on productivity, study sessions and progress tracking.
-
-`Next.js` `React` `MongoDB` `TypeScript`
+`Python` `Bash` `systemd` `Telegram Bot API` `Linux`
 
 ---
 
-## Selected Client Work
+## Other Client Work
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| **Kingdom Markets** | Travel booking platform across 13 countries: booking flows, payments, multilingual, performance | Next.js · NestJS · PostgreSQL · Redis |
 | **Emerald Restaurants** | Management software for 18 branches, with admin and branch apps | Next.js · TypeScript · Tailwind CSS |
-| **Hotel The Manha Ltd** | Public website + admin panel, built for SEO, speed and direct bookings | Next.js (SSR) · Node.js · PostgreSQL |
 | **Private Exams UK** | Secure online exam registration platform | Next.js · MongoDB · TypeScript |
 
 ---
